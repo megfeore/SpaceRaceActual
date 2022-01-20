@@ -70,8 +70,6 @@ namespace Space_Race
         SoundPlayer panSound = new SoundPlayer(Properties.Resources.pan);
         SoundPlayer glassSound = new SoundPlayer(Properties.Resources.glass);
 
-
-
         public Form1()
         {
             InitializeComponent();
