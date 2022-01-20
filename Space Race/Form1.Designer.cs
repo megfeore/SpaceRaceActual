@@ -82,7 +82,7 @@ namespace Space_Race
             this.subtitleLabel.BackColor = System.Drawing.Color.Transparent;
             this.subtitleLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.subtitleLabel.ForeColor = System.Drawing.SystemColors.Control;
-            this.subtitleLabel.Location = new System.Drawing.Point(117, 201);
+            this.subtitleLabel.Location = new System.Drawing.Point(125, 201);
             this.subtitleLabel.Name = "subtitleLabel";
             this.subtitleLabel.Size = new System.Drawing.Size(352, 23);
             this.subtitleLabel.TabIndex = 3;
